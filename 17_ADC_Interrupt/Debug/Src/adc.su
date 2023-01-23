@@ -1,0 +1,5 @@
+D:/CUBE_IDE_Workspace/F4_chip_headers/CMSIS/Include/core_cm4.h:1688:22:__NVIC_EnableIRQ	16	static
+../Src/adc.c:21:6:pa1_adc_interrupt_init	8	static
+../Src/adc.c:53:6:pa1_adc_init	4	static
+../Src/adc.c:79:6:start_conversion	4	static
+../Src/adc.c:87:10:adc_read	4	static

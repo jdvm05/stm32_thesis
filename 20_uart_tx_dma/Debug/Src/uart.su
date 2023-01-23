@@ -1,0 +1,10 @@
+D:/CUBE_IDE_Workspace/F4_chip_headers/CMSIS/Include/core_cm4.h:1688:22:__NVIC_EnableIRQ	16	static
+../Src/uart.c:38:5:__io_putchar	16	static
+../Src/uart.c:44:6:dma1_stream6_init	24	static
+../Src/uart.c:96:6:uart2_rxtx_init	8	static
+../Src/uart.c:137:6:uart2_tx_init	8	static
+../Src/uart.c:167:6:uart2_rx_interrupt_init	8	static
+../Src/uart.c:214:6:uart2_read	4	static
+../Src/uart.c:223:6:uart2_write	16	static
+../Src/uart.c:232:13:uart_set_baudrate	24	static
+../Src/uart.c:237:17:compute_uart_bd	16	static
